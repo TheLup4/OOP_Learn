@@ -1,0 +1,7 @@
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\bin\Debug\Zad1_30May.exe.config
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\bin\Debug\Zad1_30May.exe
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\bin\Debug\Zad1_30May.pdb
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\obj\Debug\Zad1_30May.csproj.AssemblyReference.cache
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\obj\Debug\Zad1_30May.csproj.CoreCompileInputs.cache
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\obj\Debug\Zad1_30May.exe
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_30May\obj\Debug\Zad1_30May.pdb

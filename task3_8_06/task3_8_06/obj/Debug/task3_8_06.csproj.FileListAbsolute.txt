@@ -1,0 +1,13 @@
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\bin\Debug\task3_8_06.exe.config
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\bin\Debug\task3_8_06.exe
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\bin\Debug\task3_8_06.pdb
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\obj\Debug\task3_8_06.csproj.AssemblyReference.cache
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\obj\Debug\task3_8_06.csproj.CoreCompileInputs.cache
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\obj\Debug\task3_8_06.exe
+C:\Users\Localuser\source\repos\task3_8_06\task3_8_06\obj\Debug\task3_8_06.pdb
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task3_8_06\bin\Debug\task3_8_06.exe.config
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task3_8_06\bin\Debug\task3_8_06.exe
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task3_8_06\bin\Debug\task3_8_06.pdb
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task3_8_06\obj\Debug\task3_8_06.csprojAssemblyReference.cache
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task3_8_06\obj\Debug\task3_8_06.exe
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task3_8_06\obj\Debug\task3_8_06.pdb

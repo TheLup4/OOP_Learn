@@ -1,0 +1,10 @@
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.csproj.AssemblyReference.cache
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.csproj.CoreCompileInputs.cache
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\bin\Debug\Zad1_1Jun.exe.config
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\bin\Debug\Zad1_1Jun.exe
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\bin\Debug\Zad1_1Jun.pdb
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.exe
+C:\Users\Localuser\source\repos\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.pdb
+C:\Users\kt012\OneDrive\Desktop\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.csprojAssemblyReference.cache
+C:\Users\kt012\OneDrive\Desktop\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.exe
+C:\Users\kt012\OneDrive\Desktop\Zad1_30May\Zad1_1Jun\obj\Debug\Zad1_1Jun.pdb

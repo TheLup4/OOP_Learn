@@ -1,0 +1,11 @@
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\bin\Debug\netcoreapp3.1\task22_06.exe
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\bin\Debug\netcoreapp3.1\task22_06.deps.json
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\bin\Debug\netcoreapp3.1\task22_06.runtimeconfig.json
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\bin\Debug\netcoreapp3.1\task22_06.runtimeconfig.dev.json
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\bin\Debug\netcoreapp3.1\task22_06.dll
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\bin\Debug\netcoreapp3.1\task22_06.pdb
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\obj\Debug\netcoreapp3.1\task22_06.csprojAssemblyReference.cache
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\obj\Debug\netcoreapp3.1\task22_06.AssemblyInfoInputs.cache
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\obj\Debug\netcoreapp3.1\task22_06.AssemblyInfo.cs
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\obj\Debug\netcoreapp3.1\task22_06.dll
+C:\Users\kt012\OneDrive\Desktop\курсы c#\task3_8_06\task22_06\obj\Debug\netcoreapp3.1\task22_06.pdb
